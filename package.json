@@ -1,0 +1,19 @@
+{
+  "name": "reactjs-lab",
+  "version": "1.0.0",
+  "description": "React practice lab and workspace",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pradeep-charism/reactjs-lab.git"
+  },
+  "author": "Pradeep Charism",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pradeep-charism/reactjs-lab/issues"
+  },
+  "homepage": "https://github.com/pradeep-charism/reactjs-lab#readme"
+}
