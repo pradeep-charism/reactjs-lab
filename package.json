@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/pradeep-charism/reactjs-lab/issues"
   },
-  "homepage": "https://github.com/pradeep-charism/reactjs-lab#readme"
+  "homepage": "https://github.com/pradeep-charism/reactjs-lab#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.3"
+  }
 }
